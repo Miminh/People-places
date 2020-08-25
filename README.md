@@ -4,4 +4,4 @@
 
 ## Deployed App Link
 
-- Click [here] to go to the Deployed app and Play around
+- Click [here](https://pepsmimsy.web.app) to go to the Deployed app and Play around
